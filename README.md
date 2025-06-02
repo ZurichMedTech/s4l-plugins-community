@@ -56,7 +56,7 @@ Your plugin must include a file named `manifest.json` in its root directory with
   "license": "LICENSE",
   "tags": ["Heat Equation", "Thermodynamics"],
   "links": {
-    "repository": "https://git.speag.com/oSparc/s4l-plugins/heat-conduction",
+    "repository": "https://gitlab.host/s4l-plugins/heat-conduction",
     "website": "https://example.com/heat-sim",
     "documentation": "https://example.com/heat-sim/docs"
   }
@@ -97,7 +97,7 @@ Once you submit your merge request:
 ## 📜 Additional Resources
 
 * [Sim4Life Plugin Development Guide](https://yourdocs.example.com)
-* [Example Plugin Template](https://git.speag.com/oSparc/s4l-plugins/plugin-cookiecutter)
+* [Example Plugin Template](https://cookiecutter.com)
 
 ---
 
