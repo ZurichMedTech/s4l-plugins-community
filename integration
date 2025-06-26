@@ -1,5 +1,5 @@
 [
     "https://github.com/mguidon/s4l-plugin-heat-conduction",
-    "https://github.com/mguidon/s4l-plugin-fenics",
+    "https://github.com/colinRawlings/s4l-plugin-fenics",
     "https://github.com/lmoyasans/S4L_Sionna_RT"
 ]
