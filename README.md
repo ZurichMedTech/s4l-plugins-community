@@ -96,8 +96,8 @@ Once you submit your merge request:
 
 ## 📜 Additional Resources
 
-* [Sim4Life Plugin Development Guide](https://yourdocs.example.com)
-* [Example Plugin Template](https://cookiecutter.com)
+* [Sim4Life Plugin Development Guide](https://zurichmedtech.github.io/s4l-plugins-documentation)
+* [Example Plugin Template](https://github.com/ZurichMedTech/s4l-plugins-template)
 
 ---
 
